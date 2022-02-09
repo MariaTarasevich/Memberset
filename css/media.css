@@ -1,0 +1,315 @@
+@media (max-width: 1280px) {
+    .promo_text {
+        height: 522px;
+    }
+    .how_pic {
+        margin-right: 0%;
+    }
+    .how_pic img {
+        width: 600px;
+    }
+
+    .features_columns {
+        width: 725px;
+    }
+
+    .f_item {
+        width: 295px;
+    }
+    .promo_phone {
+        margin-right: -70px;
+    }
+    .tour_item4 {
+        background-image: url(../img/phones_on.png);
+        background-repeat: no-repeat;
+        background-position: bottom center;
+        background-size: 300px;
+    }
+}
+
+@media (max-width: 1195px) {
+    .promo_group {
+        width: 479px;
+    }
+    .create_content {
+        width: 1078px;
+    }
+    .how_content {
+        width: 1171px;
+    }
+    .features_wrap {
+        flex-direction: column;
+    }
+    .features {
+        height: 1330px;
+    }
+    .features_content {
+        justify-content: space-around;
+        align-items: center;
+    }
+    .import_pic {
+        width: 620px;
+        margin-left: 20px;
+    }
+    .import_pic img {
+        width: 100%;
+    }
+    .footer_wrap {
+        width: 1113px;
+    }
+    .how_pic img {
+        width: 546px;
+    }
+    .how_list {
+        width: 40%;
+    }
+    .how_content {
+        width: 1036px;
+    }
+    .features_content {
+        margin-right: 0px;
+    }
+}
+
+
+@media (max-width: 1158px) {
+
+    .promo_group {
+        width: 431px;
+    }
+    .promo_text_wrap {
+        width: 62%;
+    }
+    .import_pic {
+        width: 528px;
+    }
+    .promo_text {
+        height: 444px;
+    }
+    .promo_text .h3 {
+        font-weight: 700;
+    }
+    .promo_text .h3 {
+        line-height: 70px;
+    }
+}
+
+@media (max-width: 1095px) {
+    .platform_item {
+        width: 249px;
+    }
+    .promo_group {
+        width: 366px;
+    }
+    .promo_text {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    .tour_item3 {
+        height: 491px;
+    }
+}
+
+@media (max-width: 1030px) {
+    .how_list h3,
+    .how_item{
+        font-size: 22px;
+    }
+    .how_item1 p {
+        font-size: 16px;
+    }
+    .how_pic img {
+        width: 484px;
+    }
+    .how_content {
+        width: 111%;
+    }
+    .import_wrap {
+        width: 100%;
+    }
+    .promo_text .h3 {
+        font-size: 76px;
+    }
+
+}
+
+@media (max-width: 975px) {
+    .promo_bottom_pic img {
+        height: 400px;
+    }
+    .create_group {
+        padding: 40px 60px;
+    }
+    .create_group::before {
+        display: none;
+    }
+    .create_content {
+        width: 90%;
+    }
+    .create_text {
+        width: 50%;
+    }
+    .default_head {
+        font-size: 55px;
+    }
+    .find_logo img {
+        width: 300px;
+    }
+    .p_item_wrap {
+        flex-direction: column;
+    }
+    .platform_item:not(:first-child) {
+        margin-left: 0px;
+    }
+    .platform_item {
+        width: 389px;
+    }
+    .platform {
+        height: 100%;
+        padding: 30px 0;
+    }
+    .promo_text p {
+        width: 100%;
+    }
+    .tour_h3 {
+        font-size: 33px;
+    }
+    .tour_neon {
+        font-size: 33px;
+    }
+    .tour_neon {
+        height: 49px;
+    }
+    .tour_item {
+        padding: 29px;
+    }
+    .import {
+        height: 500px;
+    }
+    .import_content {
+        margin-left: 20px;
+    }
+}
+
+@media (max-width: 910px) {
+    .find_logo img {
+        width: 221px;
+    }
+    .foot_column:not(:first-child) {
+        margin-left: 30px;
+    }
+    .find_input {
+        width: 264px;
+    }
+    .features_content {
+        height: 282px;
+    }
+    .how_pic img {
+        width: 375px;
+    }
+}
+
+@media (max-width: 835px) {
+    .nav_wrap .container {
+        width: 95%;
+    }
+    .promo .container {
+        width: 95%;
+    }
+    .promo_phone {
+        margin-right: -19px;
+    }
+    .promo_group {
+        width: 316px;
+    }
+    .create_group {
+        padding: 20px 30px;
+    }
+    .import_pic {
+        width: 409px;
+    }
+    .import {
+        height: 400px;
+    }
+}
+@media (max-width: 730px) {
+    .features_columns {
+        flex-direction: column;
+        align-items: center;
+    }
+    .features {
+        height: 2205px;
+    }
+
+    .f_column1 {
+        height: auto;
+    }
+
+    .f_item:not(:first-child) {
+        margin-top: 15px;
+    }
+    .features_columns {
+        width: auto;
+    }
+    .find_wrap {
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+    }
+    .find_links {
+        justify-content: center;
+    }
+    .how_content {
+        width: 111%;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .how_list {
+        width: 70%;
+        margin-bottom: 30px;
+    }
+    .group_input {
+        width: 212px;
+    }
+    .create_text {
+        margin-left: 15px;
+    }
+}
+
+@media (max-width: 700px) {
+    .nav {
+        flex-direction: column;
+        height: 132px;
+    }
+    .promo .container {
+        width: 87%;
+        display: flex;
+        flex-direction: column;
+    }
+    .promo_text_wrap {
+        width: 100%;
+    }
+    .promo_text {
+        height: 379px;
+        align-items: center;
+    }
+    .promo_phone {
+        margin-right: 0px;
+        display: flex;
+        justify-content: center;
+    }
+    .promo_group {
+        width: 356px;
+    }
+    .promo_bottom_pic img {
+        height: 321px;
+    }
+    .tour_item_wrap {
+        flex-direction: column;
+        align-items: center;
+    }
+    .left_tour_items, .right_tour_items {
+        width: 73%;
+    }
+} 
